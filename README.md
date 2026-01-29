@@ -2,5 +2,5 @@
 
 # Create your personnal composite
   ```
-       g++ *.cpp -o composite
+       g++ main.cpp -o composite
   ```
